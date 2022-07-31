@@ -1,1 +1,1 @@
-# oasis-infobyte
+# oasis-infobyte calculator
